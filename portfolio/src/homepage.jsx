@@ -109,7 +109,7 @@ function Homepage() {
           <div className='opening-theme1' data-scroll-section  >
             <div className='name-heading' style={{alignSelf:"center"}}>
               <p ref={textRef4} >
-                <span>MICHELO</span> JEFF MUFUGI
+                MICHELO JEFF MUFUGI
               </p>
             </div>
 
