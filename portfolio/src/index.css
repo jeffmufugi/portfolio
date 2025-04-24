@@ -4,7 +4,15 @@
     padding: 0;
     box-sizing: border-box;
   }
- 
+  @font-face {
+    font-family: 'Humane';
+    src: url('/fonts/Humane-Regular.woff2') format('woff2'),
+         url('/fonts/Humane-Regular.woff') format('woff'),
+         url('/fonts/Humane-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
   html, body {
     height: 100dvh;
     width: 100%;
