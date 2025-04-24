@@ -67,12 +67,12 @@
     /* background-image: url('./assets/sun2.jpg'); */
   }
 
-  .opening-theme1 div:nth-of-type(1){
-    /* margin-left: 2vw; */
+  /* .opening-theme1 div:nth-of-type(1){
+    
 
 
 
-  }
+  } */
   .opening-theme1 div:nth-of-type(2){
     display: flex;
     flex: 1;
@@ -140,9 +140,9 @@
     /* font-weight: 400; */
 }
 
-.menu-item:active {
+/* .menu-item:active {
 
-}
+} */
 .summary button{
     margin-top: 1vw;
     width: 15vh;
@@ -318,7 +318,7 @@ html.has-scroll-smooth {
     z-index: 9999;
   }
 
-  .btn1{
+  /* .btn1{
    
 
   }
@@ -334,7 +334,7 @@ html.has-scroll-smooth {
 
   .btn2:hover{
 
-  }
+  } */
 
   .summary p{
     color:white;
