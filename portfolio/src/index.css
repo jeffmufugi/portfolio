@@ -65,7 +65,14 @@
     font-family: Roboto Mono;
   }
   
-
+  @font-face {
+    font-family: 'Moniqa';
+    src: url('./assets/Web-PS/CYR_CT_OP_Emberly Regular [wdth,wght]-VF.ttf') format('truetype');
+    font-weight: 100 900;
+    font-stretch: 75% 125%;
+    font-style: normal;
+  }
+  
   
   .opening-theme{
     display: flex;
