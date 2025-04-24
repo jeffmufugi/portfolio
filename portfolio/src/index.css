@@ -6,12 +6,53 @@
   }
   @font-face {
     font-family: 'Humane';
-    src: url('/fonts/Humane-Regular.woff2') format('woff2'),
-         url('/fonts/Humane-Regular.woff') format('woff'),
-         url('/fonts/Humane-Regular.otf') format('opentype');
-    font-weight: normal;
+    src: url('./assets/Web-PS/Humane-Thin.woff2') format('woff2');
+    font-weight: 100;
     font-style: normal;
   }
+  
+  @font-face {
+    font-family: 'Humane';
+    src: url('./assets/Web-PS/Humane-ExtraLight.woff2') format('woff2');
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Humane';
+    src: url('./assets/Web-PS/Humane-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Humane';
+    src: url('./assets/Web-PS/Humane-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Humane';
+    src: url('./assets/Web-PS/Humane-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Humane';
+    src: url('./assets/Web-PS/Humane-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Humane';
+    src: url('./assets/Web-PS/Humane-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+  }
+  
   
   html, body {
     height: 100dvh;
