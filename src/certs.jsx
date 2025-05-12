@@ -124,6 +124,7 @@ function Certs() {
                 src={hoveredImage}
                 ref={previewRef}
                 alt="Preview"
+                loading="lazy"
                 style={{
                   position: "fixed",
                   top: coords.y - 400,

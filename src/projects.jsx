@@ -133,6 +133,7 @@ function Projects() {
                 src={hoveredImage}
                 ref={previewRef}
                 alt="Preview"
+                loading="lazy"
                 style={{
                   position: "fixed",
                   top: 0,
