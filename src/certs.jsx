@@ -103,7 +103,7 @@ function Certs() {
         <>
         <div ref={scrollRef} data-scroll-section className='jp2'>
          <div className='opening-theme2' data-scroll-section>
-                  <h1 ref={textRef} className='title'>awarxds.</h1>
+                  <h1 ref={textRef} className='title'>awarsds.</h1>
                   <div style={{marginTop:"10vw"}}>
                   <ul>
                     <li                 onMouseEnter={() => handleMouseEnter(dl)}
