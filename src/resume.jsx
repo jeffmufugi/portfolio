@@ -1,4 +1,4 @@
-import res from './assets/res1.png'
+import res from './assets/res.png'
 import Menu from './menu'
 import TiltImage2 from './Tiltimage2';
 import transition from './transition';
